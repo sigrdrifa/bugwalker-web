@@ -1,0 +1,67 @@
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.sidebar .nav > li.active-pro{
+  position: absolute;
+  width: 100%;
+  bottom: 10px;
+}
+.sidebar .nav > li.active-pro a{
+  background: rgba(255, 255, 255, 0.14);
+  opacity: 1;
+  color: #3cd779;
+}
+
+.sidebar .nav > li.active-pro a:hover{
+  background: #3cd779;
+  opacity: 1;
+  color: #2a2a31;
+}
+
+.sidebar svg {
+  color: rgb(202, 200, 200);
+}
+
+.sidebar .active svg {
+  color: #2a2a31 !important;
+}
+
+.main-container {
+  max-width: 80%;
+}
+
+.btn-bw-blue {
+  background-color: #1b6d85;
+}
+
+.login-bg {
+  background-image: url("/assets/img/login-bg.png");
+  background-size: cover;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.btn-outline-primary {
+	color: #1b6d85;
+	border-color: #1b6d85;
+}
+
+.btn-outline-primary:hover {
+	color: #fff;
+	background-color: #1b6d85;
+	border-color: #1b6d85;
+}

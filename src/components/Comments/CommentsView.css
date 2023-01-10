@@ -1,0 +1,82 @@
+.comments-view .user-comment-avatar {
+    width: 64px;
+    border: 2px solid #1b6d85;
+    margin-left:0.4rem;
+}
+
+.comment-user-col p {
+    margin-bottom: 0.1rem;
+    padding-left: 0.3rem;
+    text-align: center;
+}
+
+.comments-view .comment-user-role {
+    font-size: 90%;
+    text-decoration: italic;
+}
+
+.comments-view .comment-user-name {
+    white-space: nowrap;
+}
+
+.comments-view .comment-user-name:hover {
+    text-decoration: underline;
+}
+
+.comments-view .comment-cp-panel ul {
+    list-style: none;
+    padding-left: 0px;
+    font-size: 80%;
+    color: #ccc;
+    margin-bottom: 0.1rem;
+    padding-bottom: 0.1rem;
+}
+
+
+.comments-view .comment-cp-panel ul li {
+    display: inline;
+    margin-right: 0.5rem;
+}
+
+.comments-view .comment-cp-panel .btn:hover {
+    color: #1b6d85 !important;
+}
+
+.comments-view .comment-cp-panel .btn {
+        background-color: transparent;
+        color: #ccc;
+        border: none;
+}
+
+.comments-view .comment-cp-panel .delete-btn {
+    color: rgb(246, 120, 120) ;
+}
+
+.comments-view img {
+    max-width: 100%;
+}
+
+.new-comment-btn {
+    background-color: #1b6d85;
+}
+
+.comments-view .comment-card {
+    margin-bottom: 1rem;
+}
+
+.post-new-comment {
+    margin-top: 1.5rem;
+}
+
+.post-new-comment .submit-invalid-feedback {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+.comments-view blockquote {
+    border-left: 0.3rem solid #9db1b9;
+    padding-left: 0.3rem;
+    padding-top: 0.1rem;
+}

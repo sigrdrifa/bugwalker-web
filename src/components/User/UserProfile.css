@@ -1,0 +1,30 @@
+.user-profile .user-profile-avatar {
+    height: 150px;
+    width: 150px;
+    border: 2px solid #1b6d85;
+}
+
+.user-profile .btn-primary {
+    background-color: #1b6d85;
+}
+
+.user-profile .user-profile-name {
+    color: #1b6d85;
+}
+
+.user-role-moderator {
+    color: #18a436 !important;
+}
+
+.user-role-banned {
+    color: rgb(246, 120, 120) !important;
+}
+
+.user-profile-modpanel ul {
+    list-style: none;
+    padding-left:0.1rem;
+}
+
+.user-profile-modpanel ul li {
+    margin-bottom: 0.1rem;
+}

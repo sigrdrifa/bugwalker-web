@@ -1,0 +1,93 @@
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+.header-container {
+    padding-left: 15rem;
+    padding-right: 1rem;
+}
+
+.sidebar-collapsed .header-container {
+    padding-left: 5rem;
+}
+
+.quicksearch-bug {
+    margin-left: 2rem;
+    color: #6c757d;
+    font-size: 1rem;
+}
+
+#bugQuickSearch .css-19ybaq8-control {
+    background: transparent;
+    border-color: transparent;
+}
+
+#bugQuickSearch .css-1uccc91-singleValue {
+    color: hsl(0,0%,50%);
+}
+
+#bugQuickSearch .css-1hb7zxy-IndicatorsContainer {
+    display: none;
+}
+
+#bugQuickSearch .css-o0h0e7-control:hover {
+    border: none;
+    background: transparent;
+}
+
+.btn-round {
+    border-radius: 30px !important;
+    border-width: 1px;
+    padding: 0.45rem 0.75rem;
+}
+
+.quicksearch-icon {
+    margin-right: 0.8rem;
+    opacity: 1;
+    float: left;
+    margin-top:0.7rem;
+}
+
+.quicksearch-input {
+    background-color: transparent;
+    border: none;
+    color: #a2a2a2;
+}
+
+.quicksearch-input:active {
+    color: #0000;
+}
+
+.user-header-widget 
+{
+    margin-right: 2rem;
+    color: #fff;
+    background: #1b6d85;
+    border-radius: 4px;
+    padding: 0.4rem;
+    min-width: 6rem;
+}
+
+.user-header-widget a 
+{
+    color: #fff;
+    font-size: 1rem;
+}
+
+.user-header-widget a:hover
+{
+    color: #272626;
+    text-decoration: underline;
+}
+
+.user-header-widget-logout {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    margin-right: 1rem;
+    margin-left: 0.5rem;
+}
+
+.user-header-widget-logout:hover {
+    background-color: transparent;
+    color: #272626;
+    text-decoration: underline;
+}

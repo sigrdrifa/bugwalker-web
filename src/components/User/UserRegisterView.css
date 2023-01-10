@@ -1,0 +1,10 @@
+.ava-active {
+    border: 3px solid #1b6d85;
+    opacity: 1 !important;
+}
+
+.user-register-avatar {
+    opacity: 0.6;
+    width: 6rem;
+    height: 6rem;
+}

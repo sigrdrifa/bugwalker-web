@@ -1,0 +1,76 @@
+.bugstable-div {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    border: 1px solid #ddd;
+    min-height:200px;
+}
+
+.row-severity-low {
+    border-left: 0.7em solid #05b10585 !important;
+}
+
+.row-severity-medium {
+    border-left: 0.7em solid #f3f397 !important;
+}
+
+.row-severity-critical {
+    border-left: 0.7em solid rgb(246, 120, 120) !important;
+}
+
+.ag-header-cell-filtered {
+    background-color: #1b6d85 !important;
+    color: #fff !important;
+}
+  
+.ag-header-cell-filtered span {
+    color: #fff !important;
+}
+
+.bugs-table-title-link {
+      color:#1b6d85;
+      font-weight:600;
+      font-size:0.85rem;
+}
+
+.wow-bug-icon {
+      width: 32px;
+      height: 32px;
+      margin-left:0.75rem;
+      border: 2px solid #1b6d85;
+}
+
+.wow-bug-spell-icon {
+    width: 32px;
+    height: 32px;
+    margin-left:-0.6rem;
+}
+
+.row-has-tags .badge {
+      background-color:#1b6d85;
+      font-size: 0.75rem;
+}
+
+.wow-bug-spell-name {
+    color:#1b6d85;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.badge-conduit {
+    background-color: #a335ee !important;
+    color: #fff;
+}
+
+.badge-feature {
+    background-color: #0b9300e0 !important;
+    color: #fff;
+}
+
+.badge-legendary {
+    background-color: #ff8000 !important;
+    color: #fff;
+}
+
+.badge-covenant {
+    background-color: #0facd3 !important;
+    color: #fff;
+}

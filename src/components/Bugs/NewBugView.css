@@ -1,0 +1,35 @@
+.selected-spell-media .media-heading {
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.selected-spell-media  {
+    margin-top: 1rem;
+}
+
+.selected-spell-media .media-body {
+    margin-left: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.submit-bug-col .form-group label {
+    font-weight: bold;
+}
+
+.submit-bug-col h4 {
+    color:#1b6d85;
+}
+
+.submit-bug-col .submit-invalid-feedback {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #dc3545;
+}
+
+.submit-bug-col .submit-valid {
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 80%;
+    color: #28a745;
+}

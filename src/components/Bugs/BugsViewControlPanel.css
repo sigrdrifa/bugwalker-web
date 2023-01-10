@@ -1,0 +1,39 @@
+.bugs-view-controlpanel 
+{
+    padding: 0.5rem 0;
+    font-size: 0.9rem;
+}
+
+.btn-submit-new
+{
+    font-size: 0.9rem;
+}
+
+.btn-submit-new:hover {
+    color: #fff;
+}
+
+.bug-cp-dropdown-btn {
+    background-color: #fff;
+    color:#2a2a31;
+    margin-right: 1rem;
+    border-color: #ccc;
+    font-size: 0.9rem;
+}
+
+.bug-cp-dropdown-btn:hover {
+    background-color:#1b6d85;
+}
+
+.bug-cp-input {
+    margin-right: 1rem;
+}
+
+.bug-cp-input input {
+    background:#fff;
+}
+
+.bug-cp-input input:focus {
+    box-shadow: none;
+    border-color: #1b6d85;
+}

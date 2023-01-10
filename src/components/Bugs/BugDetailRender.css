@@ -1,0 +1,76 @@
+.view-bug-col h3 {
+    color: #1b6d85;
+}
+
+.view-bug-col h4 {
+    color: #1b6d85;
+}
+
+.view-bug-col .btn-info {
+    background-color: #1b6d85;
+}
+
+.bug-metadata {
+    padding-top: 0.6rem;
+    font-size: 85%;
+}
+
+.bug-metadata ul {
+    list-style: none;
+}
+
+.bug-metadata ul li {
+    margin-bottom: 0.75rem;
+}
+
+.bug-metadata .card-body {
+	padding: 1.25rem .25rem .25rem;
+	background-color: #1b6d85;
+    color: #fff;
+}
+
+.view-bug-col img {
+    max-width: 100%;
+}
+
+.bug-metadata .card-body .row {
+    margin-bottom: 0.5rem;
+    margin-left: 0.2rem;
+    margin-right: 0rem;
+}
+
+.view-bug-tags .badge {
+    margin-right: 0.1rem;
+    background-color: #1b6d85;
+}
+
+.view-bug-headers img {
+    border: 2px solid #1b6d85;
+}
+
+.view-bug-col .btn-edit-ctrl {
+    padding: 0.1rem;
+    background-color: #ccc;
+}
+
+.view-bug-col .table-dark.table-striped tbody tr:nth-of-type(2n+1) {
+    background-color: rgba(27, 109, 133, 0.25);
+}
+
+.view-bug-col .table a {
+    color: #3cd779;
+}
+
+.view-bug-col .table a:hover {
+    color: rgb(67, 220, 247);
+}
+
+.view-bug-col .table tr td:first-child {
+    color: #acacac;
+}
+
+.view-bug-col blockquote {
+    border-left: 0.3rem solid #9db1b9;
+    padding-left: 0.3rem;
+    padding-top: 0.1rem;
+}
